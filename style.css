@@ -1,0 +1,33 @@
+#title{
+    text-align: center;
+    /* text-shadow: 5px 5px lightblue; */
+}
+.dis_tab{
+    border: 2px solid black;
+}
+.parent{
+    position: absolute;
+    left : 100px;
+}
+tr,td{
+    border: 2px solid black;
+    width: 200px;
+    height: 30px;
+}
+th{
+    border: 2px solid black;
+    background-color: beige;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+}
+.keys{
+    text-align: center;
+}
+td:hover{
+    background-color: burlywood;
+    cursor: pointer;
+}
+body{
+    background-color: whitesmoke;
+}
